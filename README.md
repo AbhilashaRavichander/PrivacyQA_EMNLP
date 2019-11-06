@@ -1,7 +1,7 @@
 # Question Answering for Privacy Policies
 
 
-This repository contains the PrivacyQA dataset described in the EMNLP 2019 paper, [Question Answering for Privacy Policies: Combining Computational and Legal Perspectives](https://arxiv.org/abs/1911.00841). PRIVACYQA is a corpus consisting of 1750 questions about the contents of privacy policies, paired with expert annotations. The goal of this effort is to kickstart the development of question-answering methods for this domain, to address the (unrealistic) expectation that a large population should be reading many policies per day.
+This repository contains the PrivacyQA dataset described in the EMNLP 2019 paper, [Question Answering for Privacy Policies: Combining Computational and Legal Perspectives](https://arxiv.org/abs/1911.00841). PrivacyQA is a corpus consisting of 1750 questions about the contents of privacy policies, paired with expert annotations. The goal of this effort is to kickstart the development of question-answering methods for this domain, to address the (unrealistic) expectation that a large population should be reading many policies per day.
 
 The data has been partitioned into a train and test set. The same split has been used in the experiments reported in the paper. 
 
