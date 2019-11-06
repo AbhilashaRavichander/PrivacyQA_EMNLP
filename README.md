@@ -13,8 +13,7 @@ The data is in a tab seperated format with the following fields:
 5) Split	: Train or test split
 6) Query	: Text field consisting of crowdsourced question against policy
 7) Segment	: Sentence from privacy policy
-8) 
-Train- Label : {Relevant, Irrelevant}
+8) Train- Label : {Relevant, Irrelevant}
 Test- Ann0, Ann1, Ann2,	Ann3, Ann4, Ann5 and Ann6: {Relevant, Irrelevant, None}
 None: annotation should not be considered. Relevant: Segment is relevant for query. Irrelevant: segment is irrelevant for query.
 
