@@ -20,8 +20,8 @@ None: annotation should not be considered. Relevant: Segment is relevant for que
 
 
 
-Additionally, we also include annotations of each user query by applicable OPP-115 categories. The categories are sourced from the OPP-115 Corpus annotation scheme
-(Wilson et al., 2016), and the annotations for both train and test splits can be found in /data/meta-annotations/OPP-115 Annotations/.  Each column corresponding to an OPP category contains a "1" if a majority of the annotators considered the category relevant for the question and "0" otherwise.  A brief description of OPP-115 categories is as follows:
+Additionally, we also include annotations of each user query with applicable OPP-115 categories. The categories are sourced from the OPP-115 Corpus annotation scheme
+([Wilson et al., 2016](https://www.aclweb.org/anthology/P16-1126/)), and the annotations for both train and test splits can be found in the [meta-annotations folder](https://github.com/AbhilashaRavichander/PrivacyQA_EMNLP/tree/master/data/meta-annotations/OPP-115%20Annotations).  Each column corresponding to an OPP category contains a "1" if a category is considered relevant to the question as described in the paper,  and "0" otherwise.  A brief description of OPP-115 categories is as follows:
 1. First Party Collection/Use: What, why and how information is collected by the service provider
 2. Third Party Sharing/Collection: What, why and how information shared with or collected by third parties
 3. Data Security: Protection measures for user information
