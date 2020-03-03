@@ -15,6 +15,22 @@ The data is in a tab seperated format with the following fields:
 7) Segment	: Sentence from privacy policy
 8) Ann0, Ann1, Ann2,	Ann3,	Ann4, Ann5 and Ann6: {Relevant, Irrelevant, None} None: annotation should not be considered. Relevant: Segment is relevant for query. Irrelevant: segment is irrelevant for query.
 
+
+
+Additionally, we also include annotations of each user query by applicable OPP-115 categories. The categories are sourced from the OPP-115 Corpus annotation scheme
+(Wilson et al., 2016), and the annotations for both train and test splits can be found in /data/meta-annotations/OPP-115 Annotations/.  Each column corresponding to an OPP category contains a "1" if a majority of the annotators considered the category relevant for the question and "0" otherwise.  A brief description of OPP-115 categories is as follows:
+1. First Party Collection/Use: What, why and how information is collected by the service provider
+2. Third Party Sharing/Collection: What, why and how information shared with or collected by third parties
+3. Data Security: Protection measures for user information
+4. Data Retention: How long user information will be stored
+5. User Choice/Control: Control options available to users
+6. User Access, Edit and Deletion: If/how users can access, edit or delete information
+7. Policy Change: Informing users if policy information has been changed
+8. International and Specific Audiences: Practices pertaining to a specific group of users
+9. Other: General text, contact information or practices not covered by other categories. 
+
+
+
 If you make use of this dataset in your research, we ask that you please cite our paper:
 
 ```  
@@ -36,5 +52,3 @@ If you make use of this dataset in your research, we ask that you please cite ou
     abstract = "Privacy policies are long and complex documents that are difficult for users to read and understand. Yet, they have legal effects on how user data can be collected, managed and used. Ideally, we would like to empower users to inform themselves about the issues that matter to them, and enable them to selectively explore these issues. We present PrivacyQA, a corpus consisting of 1750 questions about the privacy policies of mobile applications, and over 3500 expert annotations of relevant answers. We observe that a strong neural baseline underperforms human performance by almost 0.3 F1 on PrivacyQA, suggesting considerable room for improvement for future systems. Further, we use this dataset to categorically identify challenges to question answerability, with domain-general implications for any question answering system. The PrivacyQA corpus offers a challenging corpus for question answering, with genuine real world utility.",
 }
 ```
-
-
