@@ -1,7 +1,7 @@
 # Question Answering for Privacy Policies
 
 
-This repository contains the PrivacyQA dataset described in the EMNLP 2019 paper, [Question Answering for Privacy Policies: Combining Computational and Legal Perspectives] (https://arxiv.org/abs/1911.00841). PRIVACYQA is a corpus consisting of 1750 questions about the contents of privacy policies, paired with expert annotations. The goal of this effort is to kickstart the development of question-answering methods for this domain, to address the (unrealistic) expectation that a large population should be reading many policies per day.
+This repository contains the PrivacyQA dataset described in the EMNLP 2019 paper, [Question Answering for Privacy Policies: Combining Computational and Legal Perspectives](https://arxiv.org/abs/1911.00841). PrivacyQA is a corpus consisting of 1750 questions about the contents of privacy policies, paired with expert annotations. The goal of this effort is to kickstart the development of question-answering methods for this domain, to address the (unrealistic) expectation that a large population should be reading many policies per day.
 
 The data has been partitioned into a train and test set. The same split has been used in the experiments reported in the paper. 
 
@@ -13,7 +13,10 @@ The data is in a tab seperated format with the following fields:
 5) Split	: Train or test split
 6) Query	: Text field consisting of crowdsourced question against policy
 7) Segment	: Sentence from privacy policy
-8) Ann0, Ann1, Ann2,	Ann3,	Ann4, Ann5 and Ann6: {Relevant, Irrelevant, None} None: annotation should not be considered. Relevant: Segment is relevant for query. Irrelevant: segment is irrelevant for query.
+8) Train- Label : {Relevant, Irrelevant}
+Test- Ann0, Ann1, Ann2,	Ann3, Ann4, Ann5 and Ann6: {Relevant, Irrelevant, None}
+
+None: annotation should not be considered. Relevant: Segment is relevant for query. Irrelevant: segment is irrelevant for query.
 
 
 
