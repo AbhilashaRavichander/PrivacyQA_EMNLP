@@ -1,3 +1,401 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f667d200cd0141c8ac7d265b96eba27b7195d2cb869e4e8b6760b1f5f4b55de
-size 60426
+Folder	DocID	QueryID	Split	Query	first	third	datasecurity	dataretention	user_access	user_choice	other	audiences	unknown
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_0	test	is my chat here with the platform confidential?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_1	test	who can read the chat i have with the platform?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_2	test	who can see which tasks i hire workers for?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_3	test	who can see the jobs that i post?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_4	test	who can contact me through the app?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_5	test	how are payment transactions handled on your platform.	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_6	test	what type of identifiable information is passed between users on the platform	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_7	test	what type of permissions does the app require	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_8	test	how constantly is the app being updated	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_9	test	does the app have a user feedback capabilities built in	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_10	test	how is my info protected from hackers?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_11	test	who can see my information?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_12	test	how am i sure no one will steal my identity?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_13	test	are you certified to be secure?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_14	test	how do i know this app is legit?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_15	test	what information does the company store about me?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_16	test	how do i remove it?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_17	test	what information can other people see?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_18	test	what applications does this app have access to?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_19	test	how do i restrict it's access?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_20	test	how does fiverr protect freelancers' personal information?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_21	test	how does fiverr ensure payments to freelancers are secure?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_22	test	how does fiverr ensure payments from customers are secure?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_23	test	is there any way for a freelancer to contact a customer outside of fiverr?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_24	test	does fiverr ever transmit freelancers' geographical information to customers?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_25	test	do you have to use your real name on fiverr?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_26	test	can other people see your real name?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_27	test	is my information sold to any third parties?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_28	test	is my data safe from unwanted guests?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_29	test	do i own everything from my online business if i leave the app?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_30	test	will my location be constantly tracked?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_31	test	will potential employers be able to obtain my address?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_32	test	can i control the information that is presented to potential employers?	0	1	0	0	0	1	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_33	test	will my performance ratings be available for everyone to see?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_34	test	are there specific privacy settings in the app that would allow me to adjust my privacy preferences as i see fit?	0	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_35	test	can other parties see my information	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_36	test	what are the app's permissions	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_37	test	can other people see my financial information	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_38	test	has fiverr been hacked before	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_39	test	has people's information been compromised recently	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_40	test	what information do you collect?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_41	test	what do you do to keep my personal information private?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_42	test	do you sell my information to third parties?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_43	test	do you use a secure payment service?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_44	test	have you ever been hacked?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_45	test	what are the permissions?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_46	test	how much is it?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_47	test	who is allowed to use it?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_48	test	what are the age requirements?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.fiverr.fiverr	Fiverr _1	Fiverr _1_49	test	how is information used?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_0	test	who has access to my workout plans?	1	1	0	0	0	1	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_1	test	will my fitness coach share my information with others?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_2	test	will my progress only be posted to social media if i want it to?	1	1	0	0	0	1	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_3	test	will any photos i take be accessed by outside parties?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_4	test	will my information be shared with other companies for marketing?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_5	test	will the data i input into the app be monitored?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_6	test	will the app use my data for marketing purposes?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_7	test	does this app get access to my other apps like twitter and instagram?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_8	test	how safe is my account information on this app?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_9	test	does this app access any of my data behind the scenes?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_10	test	are my statistics kept private?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_11	test	who can see my data?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_12	test	what permissions are required?	1	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_13	test	does the app access my contact list?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_14	test	is my data safe?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_15	test	what permissions do you need?	1	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_16	test	why do you need those permissions?	1	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_17	test	are you storing any of my information?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_18	test	why do you need so many unrelated permissions?	1	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_19	test	do you access any of my contact's information?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_20	test	does it save any of my health data?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_21	test	what information is shared when i share something with friends?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_22	test	can the app access my location?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_23	test	is any information shared with third parties?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_24	test	can it access my other social media accounts?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_25	test	what information will this app have access to of mine?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_26	test	will the personal info i share with this app to sign up be shared with other companies, etc?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_27	test	will my workout data be given to anyone else or shared with anyone (i.e. insurance companies)?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_28	test	how well does keep protect my data and how do they do that?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_29	test	what permissions am i giving keep as far as accessing my phone/ photos/ texts, etc when i sign up?	1	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_30	test	can i use the app without setting up an account?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_31	test	does the app capture biometric data?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_32	test	is my watch history stored?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_33	test	can people see what workout list i'm using?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_34	test	can people see my workout log?	1	1	0	0	0	1	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_35	test	will they share my information with anyone?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_36	test	will my location be monitored and shared?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_37	test	how is my information protected?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_38	test	will any of my information be sold?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_39	test	will any of my results be posted on the app?	1	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_40	test	do you know my location	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_41	test	do you keep and upload my activity to your database	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_42	test	do you use my data to modify the app	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_43	test	do you sell my data	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_44	test	do you share my location with other people	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_45	test	are my goals shared with third parties?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_46	test	is my personal information anonymous?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_47	test	do you keep track of my physical measurements like height and weight?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_48	test	does it have access to my gps information?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.gotokeep.keep.intl	Keep _2	Keep _2_49	test	will biological data like heart rate, blood pressure, etc. be collected via the app?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_0	test	can i pay with paypal?                                              	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_1	test	do i need to link my credit card?                                                                  	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_2	test	what security system do you have in place for the app?       	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_3	test	what happen if my account get compromise?                                                 	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_4	test	have there been any security breach in the last few years?  	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_5	test	will my information be saved after i use groupon once?              	1	1	0	1	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_6	test	who will have access to my information?                                                            	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_7	test	do i have to tell you my location?                           	1	1	0	0	0	1	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_8	test	will you ever sell my information?                                                        	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_9	test	how long will you have my information for?                              	0	0	0	1	1	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_10	test	what kind of data does groupon collect?                             	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_11	test	what does groupon do with collected data? (eg, does it sell it to third parties?)                  	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_12	test	what kind of permissions do i have to grant it?              	1	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_13	test	what kind of security protocol does groupon use to protect data and privacy of its users? 	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_14	test	if i decide to discontinue using groupon, how long does it keep my data? 	0	0	0	1	1	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_15	test	what kind of personal info does groupon have on me?                 	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_16	test	does groupon sell my personal information?                                                         	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_17	test	can groupon see what i'm shopping for on the internet?       	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_18	test	can groupon see where i am located?                                                       	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_19	test	can other users see any of my personal info if i use groupon?	0	1	0	0	0	1	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_20	test	do vendors get my information?                                      	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_21	test	can more than one person use my account?                                                           	0	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_22	test	is there a way to limit purchases?                           	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_23	test	do the app keep track of my location data?                                                	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_24	test	is my search and purchase history shared with advertisers?  	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_25	test	what type of permissions does the app need to operate?              	0	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_26	test	does the app use my camera at any point?                                                           	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_27	test	does it need location services while not using it?           	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_28	test	does it need to use the microphone at all?                                                	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_29	test	do i need to enter any personal information to use it?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_30	test	does it keep track of where i am?                                   	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_31	test	does it listen in on audio via the mic?                                                            	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_32	test	does it share my personal information with others?           	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_33	test	does it share my purchase information with others?                                        	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_34	test	what permissions does it request on my phone?                      	1	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_35	test	does it have access to my contacts?                                 	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_36	test	does it need my location at all times, or can i just type in it whenever i'm looking for a coupon?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_37	test	does it have access to my camera?                            	1	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_38	test	does it sell my data to anyone?                                                           	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_39	test	does it save all info on me if i delete my acct?                         	0	0	0	1	1	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_40	test	how will my data be stored                                          	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_41	test	what protections are used                                                                          	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_42	test	where are the settings                                       	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_43	test	where is the privacy statement                                                            	0	0	0	0	0	0	1	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_44	test	is my data safe  	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_45	test	this app ask any kind personal details like credit card details?    	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_46	test	what kind of os support to this app?                                                               	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_47	test	any difficulties to occupy the privacy assistant?            	0	0	0	0	0	0	1	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_48	test	what are all the features are available in this app?                                      	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.groupon	Groupon _3	Groupon _3_49	test	it is a paid or free app?  	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_0	test	what permissions does this app require?	0	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_1	test	can the app access my gps?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_2	test	does the app require an account to play?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_3	test	can the app access my camera?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_4	test	does the app have proper certificates and is it available in the google store?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_5	test	what data is the app taking from me?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_6	test	how is the data taken being used?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_7	test	what does each permission for the app mean?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_8	test	is my account information being shared?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_9	test	can i control my privacy settings?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_10	test	is any information recorded	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_11	test	how long is information saved	0	0	0	1	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_12	test	hwere is it saved	0	0	0	1	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_13	test	is it encrypted	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_14	test	will it be shared	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_15	test	what information does this app collect from my phone	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_16	test	why does the app need to collect that information to function?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_17	test	which information, if any, does the app sell to third parties?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_18	test	which companies, if any, does it sell information to.	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_19	test	what processes, if any, does the app run in the background when not opened by the user	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_20	test	what data does this game collect?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_21	test	does it access areas of my phone that it shouldn't?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_22	test	does it have access to my google account?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_23	test	will it sell any of the data that it collects?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_24	test	does the game access my contacts and then use that data in an undesirable manner?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_25	test	do you need any information from me in order to play?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_26	test	do you release any information about me?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_27	test	can you guarantee my privacy while playing your game?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_28	test	if you need my email to bind the game to an account, do you sell it to others?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_29	test	can i hide information about my progress from others?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_30	test	what protection do you offer against hackers?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_31	test	how do you store my password?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_32	test	how long do you save my information?	0	0	0	1	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_33	test	can i delete my information permanently?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_34	test	what are your gdpr policies?	0	0	0	0	0	0	0	1	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_35	test	does this app share any personal data?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_36	test	what permissions will this app need?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_37	test	does the app have in-app purchases that require credit card numbers?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_38	test	does this app record audio?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_39	test	does this app use the camera at all?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_40	test	do i have to sign in using a social media account?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_41	test	is a facebook account necessary to play the game?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_42	test	do i need to use my real name?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_43	test	will my location be tracked?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_44	test	will my data be sold to advertisers?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_45	test	does it share my location to anyone?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_46	test	does it try to connect to any social media accounts?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_47	test	does it connect to the internet?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_48	test	does it save anything locally?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.lima.doodlejump	Doodle Jump _4	Doodle Jump _4_49	test	does it upload to any external websites?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_0	test	what information of mine does it access	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_1	test	what information of mine does it collect	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_2	test	is my information sold	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_3	test	is my information secure	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_4	test	does it collect any of my contact's information	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_5	test	what areas of my phone/computer does this gain access to?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_6	test	does this app sell customer information?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_7	test	does this app track my gps location?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_8	test	will this app sell my information to any 3rd parties?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_9	test	does this app need access to any of my social media accounts?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_10	test	what type of access does it have on my device?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_11	test	what information are they collecting?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_12	test	is it gathering information on me when the app is not active?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_13	test	does it have access to financial apps i use?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_14	test	is it monitoring my location?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_15	test	does it read my contacts?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_16	test	is my privacy secured?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_17	test	can it use my camera?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_18	test	does it have access to other apps like credit card app?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_19	test	does it record my location information?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_20	test	does the app connect to the internet at any point during its use?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_21	test	what permissions does the app require in order to work?	1	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_22	test	does the app track my location?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_23	test	does the app contain third party ads?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_24	test	are there any reports of malware that have affected users of this app?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_25	test	how do they keep track of how many people are playing the game?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_26	test	how does the currency within the game work?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_27	test	does this app use data on my phone not within the app?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_28	test	does this app ask for permission if it's going to use data elsewhere on my phone?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_29	test	are there interactions with other players and if so	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_30	test	when i installation time any personal details ask in this app?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_31	test	any malware (virus) function worked in this app?	0	0	1	0	0	0	1	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_32	test	when i play the game in this app any hanging problems faced in my mobile?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_33	test	this app owner theft any personal details in my mobile (like photos, videos), possibilities are there?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_34	test	in this app support all android mobile? how much memory occupy in this app?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_35	test	does the wordscapes app have access to my location?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_36	test	are there any advertisements within the wordscapes app that could lead me to third party sites?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_37	test	could the wordscapes app contain malware?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_38	test	does the wordscapes app collect any personally identifiable information like my name or email?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_39	test	are there any in game purchases in the wordscapes app that i should be concerned about?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_40	test	what permissions does the app request?	1	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_41	test	does the app show targeted advertisements?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_42	test	does it have access to my contacts?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_43	test	does the app sell any personal information?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_44	test	does it collect my location?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_45	test	what data does it collect	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_46	test	does it share data with others	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_47	test	does it collect payment information	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_48	test	does it collect location	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.peoplefun.wordcross	Wordscapes _5	Wordscapes _5_49	test	does it sell data	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_0	test	are people able to see if i ignore my reminders?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_1	test	does the app need any special permissions to run?	1	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_2	test	when it syncs does it do so with a secure protocol?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_3	test	is my reminder data saved anywhere?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_4	test	can i use it on a single device without an account?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_5	test	will it be able to determine my location?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_6	test	is my task schedule being tracked?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_7	test	can it view my real name?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_8	test	will my password be stored securely?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_9	test	can i delete my personally identifying information?	0	0	0	0	1	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_10	test	do you track my location in real time.	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_11	test	what information do you take from me.	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_12	test	is my data shared with others?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_13	test	would there be a way to see what data you collect?	0	0	0	0	1	1	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_14	test	why do you need access to my phone calls?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_15	test	what information do collaborators have access to?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_16	test	can the app pull information from my phone's calendar?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_17	test	does the app share information with any third parties?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_18	test	how does the app share information between devices?	0	1	1	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_19	test	does the app store searches that i do?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_20	test	do i need to sign-in with google to use the sync functionality?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_21	test	is my app data encrypted?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_22	test	will my data be shared with third party entities?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_23	test	what privacy permissions are requested upon launching the app for the first time?	1	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_24	test	does the app continuously track my location?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_25	test	does the app phone home about your plans?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_26	test	does the application have ads?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_27	test	how are features personalized?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_28	test	are my ideas uploaded to any servers?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_29	test	are my tasks published to my collaborators in any way?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_30	test	who will have access to the info i enter into the application?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_31	test	will the application make money off of the info i enter in the app?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_32	test	what measure are installed to keep my info safe from hacking?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_33	test	have anyone using the app ever have trouble with their info getting leaked?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_34	test	will the app track my current location?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_35	test	who has access to whatever i create using this?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_36	test	does having this on my device create a privacy concern?	0	0	0	0	0	0	1	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_37	test	what kind of permissions does this app require?	1	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_38	test	do third parties have access to my data?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_39	test	who all has access to my data?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_40	test	does this app capture my ip address?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_41	test	"does the \brain storming\"" section of the app or any other section record things in the room outside of when i press the start button?"""	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_42	test	does this app look at any other data on my laptop outside of the folders i've given it permission to look at?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_43	test	is my data on this app secure?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_44	test	does this app try to access my photos or videos?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_45	test	what data do they take	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_46	test	what information is shared	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_47	test	who sees my data	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_48	test	is there a way to opt out of data sharing	0	0	0	0	0	1	0	0	0
+../../Dataset/Test/com.ticktick.task	TickTick: To Do List with Reminder, Day Planner _6	TickTick: To Do List with Reminder, Day Planner _6_49	test	where is my personal information stored	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_0	test	how does the app make sure my genetic data stays secure?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_1	test	is my information shared with any third parties?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_2	test	what information is shared when i choose to connect with someone?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_3	test	does the app save the address that my kit is shipped to?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_4	test	is it possible for health insurance companies to get ahold of my data?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_5	test	do you sell my genetic data?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_6	test	is my data anonymized?	1	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_7	test	if my genetic data turns out to be unexpected, can my family see it?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_8	test	what steps do you take to protect my data from hackers?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_9	test	how can i keep it hidden from insurance companies?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_10	test	are you accessing and information about me from my phone?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_11	test	are you obtaining information about my family?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_12	test	what will you do with my dna?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_13	test	will you destroy my dna sample when you are finished?	0	0	0	1	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_14	test	who will have access to my dna?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_15	test	do you keep my data forever	0	0	0	1	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_16	test	do you publish my data	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_17	test	do you use my date to modify the app	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_18	test	do you sell my data	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_19	test	do you use my data to do medical research	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_20	test	is any information recorded	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_21	test	how long is information saved	0	0	0	1	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_22	test	where is the information saved	0	0	0	1	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_23	test	is the information encrypted	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_24	test	will the information be shared with a 3rd party	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_25	test	who has access to my test results?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_26	test	will my test results be shared with any third party entities?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_27	test	where are my test results stored?	0	0	0	1	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_28	test	will anyone have digital access to my test results?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_29	test	does 23andme use my test results for marketing purposes?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_30	test	who will have access to my medical information?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_31	test	how is my medical information protected?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_32	test	how can i be sure that my saliva samples are being delivered correctly?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_33	test	how long do you store my medical information for?	0	0	0	1	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_34	test	do you ever sell my personal information to other companies for marketing purposes?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_35	test	will it be able to determine my location?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_36	test	does it store my dna information for long periods of time?	0	0	0	1	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_37	test	can other members view my real name?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_38	test	will my password be stored securely?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_39	test	can i delete my personally identifying information?	0	0	0	0	1	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_40	test	can other customers i connect with access my personal information?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_41	test	is my dna information used in any other way besides what is specified?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_42	test	how is my contribution used for other people that share my dna?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_43	test	are my health records accessed in this process at all?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_44	test	does the app require any special permissions for access on my phone?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_45	test	what information is collected from me?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_46	test	do you have any association with google?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_47	test	will you sell my information?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_48	test	do you keep my information and build a database for selling me products with it?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.twentythreeandme.app	23andMe _7	23andMe _7_49	test	how secure is your website from hackers?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_0	test	does viber log messages?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_1	test	are my call logs recorded?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_2	test	are my video calls recorded?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_3	test	do you require me to submit identifying information?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_4	test	what information is collected about users?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_5	test	how is my data used?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_6	test	what data do you keep and for how long?	0	0	0	1	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_7	test	do you keep a record of our text ?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_8	test	do you record what our cameras see?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_9	test	do you keep a record of our text messages?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_10	test	do you record our phone calls?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_11	test	if i send a message that is considered dirty, will the controllers of the app see it?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_12	test	does the app consume data or use wifi when in use?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_13	test	does viber sell my information to advertisers and marketers?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_14	test	does viber have any affiliation with the advertisement industry?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_15	test	are there other people who can access my information?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_16	test	how is any information collected by viber shared with other parties?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_17	test	is any data collected by the app has any connection with the third party sites?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_18	test	will my personal details be shared with third party  companies?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_19	test	can any 3rd party see my conversations?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_20	test	do you sell any of our data?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_21	test	group chat options has a private option enabling the user to message any particular person?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_22	test	how are my contacts stored?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_23	test	can i submit a request to have my data deleted?	0	0	0	0	1	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_24	test	when do you delete stored data?	0	0	0	1	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_25	test	how long do you retain meta data?	0	0	0	1	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_26	test	are my message encrypted on viber?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_27	test	is there any sort of encryption for communications?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_28	test	is it keep my phone numbers undisclosed?	1	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_29	test	is the messages sent through it are safe?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_30	test	the photos and videos shared will be kept confidential?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_31	test	can anyone view my account?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_32	test	how is my data stored?	1	0	1	1	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_33	test	does the app protect my account details from being accessed by other people?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_34	test	does the app offer a password service where i am required to input a password when i want to access it?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_35	test	will viber comply to government information request?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_36	test	can my call log be subpoenaed?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_37	test	if it's free, does viber profit off its users in some way?	0	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_38	test	has viber had any privacy breaches in the past?	0	0	1	0	0	0	1	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_39	test	are the calls really free?	0	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_40	test	can anyone view my account?	0	0	0	0	1	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_41	test	does the app hide the content  of the messages i send from other people on my contact list?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_42	test	if i send a message that is considered dirty, will the controllers of the app see it?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_43	test	does this send information to a third party?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_44	test	what information can the other party see about me?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_45	test	what personal information will be required for me to set up an account?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_46	test	will you ever sell my personal information to a third party?	1	1	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_47	test	how is my information protected when i'm using your app over wi-fi?	0	0	1	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_48	test	who will be able to see my information and/or the messages that i send?	1	0	0	0	0	0	0	0	0
+../../Dataset/Test/com.viber.voip	Viber Messenger _8	Viber Messenger _8_49	test	what control do i have as a user to limit the access to my account?	0	0	0	0	0	1	0	0	0

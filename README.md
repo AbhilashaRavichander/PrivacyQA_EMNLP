@@ -14,10 +14,9 @@ The data is in a tab seperated format with the following fields:
 6) Query	: Text field consisting of crowdsourced question against policy
 7) Segment	: Sentence from privacy policy
 8) Train- Label : {Relevant, Irrelevant}
-Test- Ann0, Ann1, Ann2,	Ann3, Ann4, Ann5 and Ann6: {Relevant, Irrelevant, None}
+Test- Ann1, Ann2,	Ann3, Ann4, Ann5 and Ann6: {Relevant, Irrelevant, None}
 
-None: annotation should not be considered. Relevant: Segment is relevant for query. Irrelevant: segment is irrelevant for query.
-
+None: annotation should not be considered. Relevant: Segment is relevant for query. Irrelevant: segment is irrelevant for query. In addition, the test file contains a meta-annotation of if a segment was considered relevant by any annotator under 'Any_Relevant'.  
 
 
 Additionally, we also include annotations of each user query with applicable OPP-115 categories. The categories are sourced from the OPP-115 Corpus annotation scheme
